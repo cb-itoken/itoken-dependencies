@@ -37,7 +37,7 @@
         <commons-lang3.version>3.5</commons-lang3.version>
         <guava.version>25.1-jre</guava.version>
         <nekohtml.version>1.9.22</nekohtml.version>
-        <jackson.version>2.9.6</jackson.version>
+        <jackson.version>2.9.8</jackson.version>
 
     </properties>
 
