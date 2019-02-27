@@ -38,7 +38,6 @@
         <guava.version>25.1-jre</guava.version>
         <nekohtml.version>1.9.22</nekohtml.version>
         <jackson.version>2.9.8</jackson.version>
-
     </properties>
 
     <dependencyManagement>
